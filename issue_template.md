@@ -1,18 +1,31 @@
-### Expected behavior
+### Issue Detail
+  - issue name : 
+  - issue date : 
+  - issue last update date : 
+  - issue last status :
+  - issue who raise :
+  - issue progress : 
 
 
-### Actual behavior
+### Issue Log History
+  - issue owner : 
+    - onwer#01 : 
+    
+  - issue status :
+    - status#01 : 
+    - date#01 : 
+    - remark#01 : 
+    
+  - issue action : 
+    - action#01 : 
+    - result#01 : 
+    
+### Issue Rootcause
 
 
-### Step to reproduce the behavior
+### Issue Interim Solution
 
 
-### User Story <=> Issues
-
-
-### Sprint <=> Milestones
-
-
-### Sprint Backlog <=> Unsigned issues
+### Issue Permanence Solution
 
 
